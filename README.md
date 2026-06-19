@@ -56,7 +56,7 @@ npx expo start
 * Presionar w para abrir en navegador
 
 # Estructura del Proyecto
-
+```text
 KeeperGo-App/
 ├── app/                          # Navegación principal (Expo Router)
 │   ├── (auth)/                   # Pantallas de autenticación
@@ -87,7 +87,7 @@ KeeperGo-App/
 ├── app.json                      # Configuración de Expo
 ├── package.json                  # Dependencias
 └── tsconfig.json                 # Configuración de TypeScript
-
+```
 # Tecnologías
 
 | Tecnología           | Versión | Propósito                                    |
@@ -101,13 +101,11 @@ KeeperGo-App/
 | **TypeScript**       | 5.x     | Tipado estático                              |
 
 # Equipo
-Nombre	Rol	Módulo
-Lyan	Desarrollador	Bitácora, Comunidad
-Paco	Líder Técnico   IA	Asistente IA
-Mariel	Desarrolladora	Relajación, Derivación
-Manuel	Desarrollador	Login, Mascota
-M.A  	Arquitecto  	Revisión IA
-Alex	Product Owner	Backlog, Validación
+* Lyan	- Desarrollador
+* Juan Francisco	- Desarrollador
+* Mariel - Desarrolladora
+* Manuel - Desarrollador
+* M.A  - Desarrollador
 
 # Licencia
 Proyecto desarrollado con fines académicos.
